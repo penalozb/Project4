@@ -4,7 +4,7 @@ using namespace std;
 int main(int argc, char* argv[])
 {
 
-  //string name;a
+  //string name;
   //if (argv[10] != "USER=bpenaloza")
   //{
   //name = "World";
